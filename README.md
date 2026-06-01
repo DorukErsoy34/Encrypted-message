@@ -3,7 +3,7 @@
 To use the code firt instal "javafx-sdk-26.0.1" from the link
 https://gluonhq.com/products/javafx/
 <img width="978" height="48" alt="Screenshot 2026-06-01 at 23 57 47" src="https://github.com/user-attachments/assets/0d57187e-cdfe-418c-ac59-35669ff224d5" />
-'''
+```
 when downloading for mac use this one
 then download the folder src
 put the "javafx-sdk-26.0.1" folder into the src folder and open the terminal
@@ -24,4 +24,4 @@ Run the code (pop up two UI’s client and server)
 java --module-path javafx-sdk-26.0.1/lib \
 --add-modules javafx.controls,javafx.fxml \
 -cp src ui.Main
-'''
+```
