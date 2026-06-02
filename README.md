@@ -1,6 +1,9 @@
 # Encrypted-message
 <img width="2880" height="1620" alt="Daily stock check at 8 AM Report damaged goods ASAP Update vendor prices Monday Keep fridge temps stable Archive physical receipts" src="https://github.com/user-attachments/assets/dd783bb9-83ac-41b7-8aa8-d40b49aa0960" />
+<pre>
 To use the code firt instal "javafx-sdk-26.0.1" from the link
+and any additional classes that may need instalation use the "npm i" command
+</pre>
 https://gluonhq.com/products/javafx/
 <img width="978" height="48" alt="Screenshot 2026-06-01 at 23 57 47" src="https://github.com/user-attachments/assets/0d57187e-cdfe-418c-ac59-35669ff224d5" />
 <pre>
@@ -24,4 +27,4 @@ Run the code (pop up two UI’s client and server)
 java --module-path javafx-sdk-26.0.1/lib \
 --add-modules javafx.controls,javafx.fxml \
 -cp src ui.Main
-<pre>
+</pre>
