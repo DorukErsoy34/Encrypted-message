@@ -1,6 +1,11 @@
 # Encrypted-message
 <img width="2880" height="1620" alt="Daily stock check at 8 AM Report damaged goods ASAP Update vendor prices Monday Keep fridge temps stable Archive physical receipts" src="https://github.com/user-attachments/assets/dd783bb9-83ac-41b7-8aa8-d40b49aa0960" />
 <pre>
+This message is designed to give a simple idea of how a messageing app works
+it features encryption and decription, sending between the server and the client both ways locally, and simple pop up messaging screens that allow the user to try sending and receving messages
+</pre>
+###How To Run It
+<pre>
 To use the code firt instal "javafx-sdk-26.0.1" from the link
 and any additional classes that may need instalation use the "npm i" command
 </pre>
